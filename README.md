@@ -1,4 +1,3 @@
-# MSCS532_FinalProjectPart1
 # HPC Data-Structure Optimization Prototype
 
 This reproducible Python prototype compares repeated membership testing with:
@@ -16,4 +15,5 @@ The script validates identical results, reports median timings over five runs,
 and writes `results/benchmark_results.csv`. Use the same Python interpreter and
 an otherwise idle machine when comparing runs. Timing values are specific to
 the machine; the scaling trend is the important result.
+# MSCS532_FinalProjectPart1
 # MSCS532_FinalProjectPart1
